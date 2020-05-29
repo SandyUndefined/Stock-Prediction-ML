@@ -1,35 +1,32 @@
+import io
+
+import requests
 from django.shortcuts import render
 from bokeh.plotting import figure, output_file, show
 from bokeh.embed import components
 import pandas as pd
+from django.template.loader import render_to_string
 from math import pi
 import datetime
-from .utils import get_data, convert_to_df
 
 
 def index(request):
     api_key = '1KVQW60J7LHPS12D'
-    result = get_data('EUR', 'USD', api_key)
-    source = convert_to_df(result)
-    increasing = source.close > source.open
-    decreasing = source.open > source.close
-    w = 12 * 60 * 60 * 1000
-    TOOLS = "pan, wheel_zoom, box_zoom, reset, save"
-
-    title = 'EUR to USD chart'
-
-    p = figure(x_axis_type="datetime", tools=TOOLS, plot_width=700, plot_height=500, title=title)
-    p.xaxis.major_label_orientation = pi / 4
-
-    p.grid.grid_line_alpha = 0.3
-
-    p.segment(source.date, source.high, source.date, source.low, color="black")
-    p.vbar(source.date[increasing], w, source.open[increasing], source.close[increasing],
-           fill_color="#D5E1DD", line_color="black"
-           )
-    p.vbar(source.date[decreasing], w, source.open[decreasing], source.close[decreasing],
-           fill_color="#F2583E", line_color="black"
-           )
-
-    script, div = components(p)
-    return render(request, 'StockPrediction/index.html', {'script': script, 'div': div})
+    url50 = 'https://archives.nseindia.com/content/indices/ind_nifty50list.csv'
+    url100 = 'https://archives.nseindia.com/content/indices/ind_nifty100list.csv'
+    url200 = 'https://archives.nseindia.com/content/indices/ind_nifty200list.csv'
+    sfifty = requests.get(url50).content
+    shundred = requests.get(url100).content
+    stwohundred = requests.get(url200).content
+    nifty50 = pd.read_csv(io.StringIO(sfifty.decode('utf-8')))
+    nifty100 = pd.read_csv(io.StringIO(shundred.decode('utf-8')))
+    nifty200 = pd.read_csv(io.StringIO(stwohundred.decode('utf-8')))
+    nifty50 = nifty50['Symbol']
+    nifty100 = nifty100['Symbol']
+    nifty200 = nifty200['Symbol']
+    context = {
+        'fifty': nifty50,
+        'hundred': nifty100,
+        'twohundred': nifty200
+               }
+    return render(request, 'StockPrediction/index.html', context)

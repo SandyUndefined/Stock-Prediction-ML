@@ -55,7 +55,7 @@
                         <table class="table" cellspacing="0">
                             <thead>
                             <tr>
-                                <th>Symbol</th>
+                                <th>Symbols</th>
                                 <th>Open</th>
                                 <th>High</th>
                                 <th>LTP</th>
@@ -64,21 +64,11 @@
                             </tr>
                             </thead>
                             <tbody>
+                            {% for s in fifty %}
                             <tr>
-                                <td><a href="#">Work 1</a></td>
-                                <td>Doe</td>
-                                <td>john@example.com</td>
+                                <th scope="row">{{ s }}</th>
                             </tr>
-                            <tr>
-                                <td><a href="#">Work 2</a></td>
-                                <td>Moe</td>
-                                <td>mary@example.com</td>
-                            </tr>
-                            <tr>
-                                <td><a href="#">Work 3</a></td>
-                                <td>Dooley</td>
-                                <td>july@example.com</td>
-                            </tr>
+                            {% endfor %}
                             </tbody>
                         </table>
                     </div>
@@ -86,27 +76,20 @@
                         <table class="table" cellspacing="0">
                             <thead>
                             <tr>
-                                <th>Project Name</th>
-                                <th>Employer</th>
-                                <th>Time</th>
+                                <th>Symbols</th>
+                                <th>Open</th>
+                                <th>High</th>
+                                <th>LTP</th>
+                                <th>Change</th>
+                                <th>Volume</th>
                             </tr>
                             </thead>
                             <tbody>
+                            {% for x in hundred %}
                             <tr>
-                                <td><a href="#">Work 1</a></td>
-                                <td>Doe</td>
-                                <td>john@example.com</td>
+                                <th scope="row">{{ x }}</th>
                             </tr>
-                            <tr>
-                                <td><a href="#">Work 2</a></td>
-                                <td>Moe</td>
-                                <td>mary@example.com</td>
-                            </tr>
-                            <tr>
-                                <td><a href="#">Work 3</a></td>
-                                <td>Dooley</td>
-                                <td>july@example.com</td>
-                            </tr>
+                            {% endfor %}
                             </tbody>
                         </table>
                     </div>
@@ -114,27 +97,20 @@
                         <table class="table" cellspacing="0">
                             <thead>
                             <tr>
-                                <th>Contest Name</th>
-                                <th>Date</th>
-                                <th>Award Position</th>
+                                <th>Symbols</th>
+                                <th>Open</th>
+                                <th>High</th>
+                                <th>LTP</th>
+                                <th>Change</th>
+                                <th>Volume</th>
                             </tr>
                             </thead>
                             <tbody>
+                            {% for y in twohundred %}
                             <tr>
-                                <td><a href="#">Work 1</a></td>
-                                <td>Doe</td>
-                                <td>john@example.com</td>
+                                <th scope="row">{{ y }}</th>
                             </tr>
-                            <tr>
-                                <td><a href="#">Work 2</a></td>
-                                <td>Moe</td>
-                                <td>mary@example.com</td>
-                            </tr>
-                            <tr>
-                                <td><a href="#">Work 3</a></td>
-                                <td>Dooley</td>
-                                <td>july@example.com</td>
-                            </tr>
+                            {% endfor %}
                             </tbody>
                         </table>
                     </div>
@@ -150,7 +126,6 @@
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
-
 <script src="https://cdnjs.cloudflare.com/ajax/libs/bokeh/2.0.2/bokeh.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/bokeh/2.0.2/bokeh-widgets.min.js"></script>
 {{ script | safe }}
