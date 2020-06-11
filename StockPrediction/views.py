@@ -1,21 +1,12 @@
 import io
-
-import requests
-from alpha_vantage.timeseries import TimeSeries
-from django.shortcuts import render
-from bokeh.plotting import figure, output_file, show
-from bokeh.embed import components
 import pandas as pd
-from django.template.loader import render_to_string
-from math import pi
-import datetime
-
+import requests
+from django.shortcuts import render
 from nsetools import Nse
+from datetime import date
+from StockPrediction.stock_prediction import get_stock_data
 
 nse = Nse()
-
-# def get_current(stock):
-#     return nse.get_quote(stock)
 
 
 def index(request):
@@ -65,6 +56,7 @@ def index(request):
     # symbols.append(data['symbol'])
     # open = data['open']
 
+
     context = {
         'fifty': nifty50,
         'hundred': nifty100,
@@ -75,3 +67,19 @@ def index(request):
                }
 
     return render(request, 'StockPrediction/index.html', context)
+
+
+def prediction(request):
+    if request.method == 'POST':
+        stock_id = request.POST['stocks_id']
+        stock = stock_id.upper()
+        msg = get_stock_data(stock)
+        today = date.today()
+        context = {
+            'Predicted_data': msg,
+            'name': stock,
+            'date': today,
+        }
+        return render(request, 'StockPrediction/Predict.html', context)
+    else:
+        return render(request, 'StockPrediction/index.html')
