@@ -6,14 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Bootstrap CSS -->
     {% load static %}
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
-
+    <link rel="stylesheet" href="{% static 'StockPrediction/font-awesome.min.css' %}">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css"
+          href="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.14/angular.min.js">
     <link rel="stylesheet" href="{% static 'StockPrediction/style.css' %}">
 
 
     <title>Web API</title>
 </head>
-<body>
+<body style="background-image: url({% static 'StockPrediction/bg.jpg' %});">
 <header>
     <nav class="navbar navbar-expand-lg navbar-light bg-dark">
         <a class="navbar-brand text-white ml-5" style="font-size:1.5em">Stock Prediction</a>
@@ -23,16 +25,19 @@
         </button>
     </nav>
 </header>
-<section class="container">
-    <div class="columns">
-        <div class="column">
-
-        </div>
-        <div class="column is-6">
-            {{ div | safe }}
-        </div>
-        <div class="column">
-
+<section class="pt-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="main">
+                <div class="input-group">
+                    <input type="text" class="form-control search-input" placeholder="Enter Company's Symbol">
+                    <div class="input-group-append">
+                        <button class="btn rounded-right search-btn" style="background-color:#e8e9ea">Submit</button>
+                    </div>
+                </div>
+            </div>
+            </div>
         </div>
     </div>
 </section>
@@ -40,81 +45,28 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <nav>
-                    <div class="nav nav-tabs nav-fill" id="nav-tab" role="tablist">
-                        <a class="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-home"
-                           role="tab" aria-controls="nav-home" aria-selected="true">NIFTY 50</a>
-                        <a class="nav-item nav-link" id="nav-profile-tab" data-toggle="tab" href="#nav-profile"
-                           role="tab" aria-controls="nav-profile" aria-selected="false">NIFTY 100</a>
-                        <a class="nav-item nav-link" id="nav-contact-tab" data-toggle="tab" href="#nav-contact"
-                           role="tab" aria-controls="nav-contact" aria-selected="false">NIFTY 200</a>
-                    </div>
-                </nav>
-                <div class="tab-content" id="nav-tabContent">
-                    <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
-                        <table class="table" cellspacing="0">
-                            <thead>
-                            <tr>
-                                <th>Symbols</th>
-                                <th>Open</th>
-                                <th>High</th>
-                                <th>LTP</th>
-                                <th>Change</th>
-                                <th>Volume</th>
-                            </tr>
-                            </thead>
-                            <tbody>
-                            {% for s in fifty %}
-                            <tr>
-                                <th scope="row">{{ s }}</th>
-                            </tr>
-                            {% endfor %}
-                            </tbody>
-                        </table>
-                    </div>
-                    <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
-                        <table class="table" cellspacing="0">
-                            <thead>
-                            <tr>
-                                <th>Symbols</th>
-                                <th>Open</th>
-                                <th>High</th>
-                                <th>LTP</th>
-                                <th>Change</th>
-                                <th>Volume</th>
-                            </tr>
-                            </thead>
-                            <tbody>
-                            {% for x in hundred %}
-                            <tr>
-                                <th scope="row">{{ x }}</th>
-                            </tr>
-                            {% endfor %}
-                            </tbody>
-                        </table>
-                    </div>
-                    <div class="tab-pane fade" id="nav-contact" role="tabpanel" aria-labelledby="nav-contact-tab">
-                        <table class="table" cellspacing="0">
-                            <thead>
-                            <tr>
-                                <th>Symbols</th>
-                                <th>Open</th>
-                                <th>High</th>
-                                <th>LTP</th>
-                                <th>Change</th>
-                                <th>Volume</th>
-                            </tr>
-                            </thead>
-                            <tbody>
-                            {% for y in twohundred %}
-                            <tr>
-                                <th scope="row">{{ y }}</th>
-                            </tr>
-                            {% endfor %}
-                            </tbody>
-                        </table>
-                    </div>
-                </div>
+                <table class="table table-striped table-dark" cellspacing="0">
+                    <thead class="bg-info">
+                    <tr>
+                        <th>Company's Symbol</th>
+                        <th>Open</th>
+                        <th></th>
+                        <th>Action</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    {% for a,b in stocks %}
+                    <tr>
+                        <th scope="row">{{ a }}</th>
+                        <td>{{ b }}</td>
+                        <td></td>
+                        <td>
+                            <input type="button" class="btn predict-btn" value="Predict Closing Price">
+                        </td>
+                    </tr>
+                    {% endfor %}
+                    </tbody>
+                </table>
             </div>
         </div>
     </div>
@@ -123,9 +75,10 @@
 
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/bokeh/2.0.2/bokeh.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/bokeh/2.0.2/bokeh-widgets.min.js"></script>
 {{ script | safe }}

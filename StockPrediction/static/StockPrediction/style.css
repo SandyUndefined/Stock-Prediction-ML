@@ -1,0 +1,29 @@
+.main{
+width: 40%;
+margin: 50px auto;
+}
+.search-input{
+  padding-bottom: 5px;
+  box-shadow: none !important;
+  border: 0 !important;
+  outline: none !important;
+}
+.search-input:focus{
+  padding-bottom: 5px;
+  box-shadow: none !important;
+  border: 0 !important;
+  outline: none !important;
+}
+.search-btn{
+  background-color: #fff;
+  box-shadow: none !important;
+  border: 0 !important;
+  outline: none !important;
+}
+.predict-btn{
+font-weight: bold;
+background-color:#5cdb94;
+}
+.predict-btn:hover {
+background-color:#8de4af;
+}
