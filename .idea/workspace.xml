@@ -1,1402 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/StockPrediction/templates/StockPrediction/index.html" line="28" />
+    <bookmark url="file://$PROJECT_DIR$/StockPrediction/templates/StockPrediction/index.html" line="29" />
+    <bookmark url="file://$PROJECT_DIR$/StockPrediction/templates/StockPrediction/greet.html" line="17" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a3177a0-1412-42e2-8baa-3776fed80164" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/20MICRONS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/3IINFOTECH_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/3MINDIA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/A2ZMES_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/AANJANEYA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/AARTIDRUGS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/AARTIIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/AARVEEDEN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ABAN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ABB_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ABCIL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ABGSHIP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ABIRLANUVO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ACC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ACE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ACKRUTI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ACROPETAL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ADANIENT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ADANIPOWER_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ADFFOODS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ADHUNIK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ADORWELD_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ADSL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ADVANIHOTR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ADVANTA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/AEGISCHEM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/AFL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/AFTEK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/AGCNET_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/AGRODUTCH_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/AHLEAST_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/AHLUCONT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/AHLWEST_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/AHMEDFORGE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/AIAENG_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/AICHAMP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/AJANTPHARM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/AJMERA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/AKSHOPTFBR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/AKZOINDIA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ALBK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ALCHEM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ALEMBICLTD_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ALFALAVAL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ALICON_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ALKALI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ALKYLAMINE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ALLCARGO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ALLSEC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ALMONDZ_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ALOKTEXT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ALPHAGEO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ALPSINDUS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/AMARAJABAT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/AMAR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/AMBIKCO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/AMBUJACEM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/AMDIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/AMTEKAUTO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/AMTEKINDIA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ANANTRAJ_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ANDHRABANK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ANDHRACEMT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ANDHRSUGAR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ANGIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ANIKINDS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ANKURDRUGS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ANSALAPI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ANSALHSG_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ANTGRAPHIC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/APARINDS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/APCOTEXIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/APIL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/APOLLOHOSP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/APOLLOTYRE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/APPAPER_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/APTECHT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/AQUA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ARCHIDPLY_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ARCHIES_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/AREVAT&amp;D_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ARIES_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ARIHANT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ARL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/AROGRANITE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ARROWTEX_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ARSHIYA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ARSSINFRA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ARVIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ASAHIINDIA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ASAL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ASHAPURMIN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ASHCONIUL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ASHIANA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ASHIMASYN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ASHOKA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ASHOKLEY_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ASIANELEC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ASIANHOTNR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ASIANPAINT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ASIANTILES_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ASIL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ASSAMCO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ASTEC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ASTERSILI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ASTRAL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ASTRAMICRO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ASTRAZEN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ATFL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ATLANTA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ATLASCYCLE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ATNINTER_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ATUL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/AURIONPRO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/AUROPHARMA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/AUSOMENT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/AUSTRAL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/AUTOAXLES_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/AUTOIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/AUTOLITIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/AVANTI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/AVENTIS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/AVTNPL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/AXIS-IT&amp;T_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/AXISBANK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BAGFILMS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BAJAJ-AUTO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BAJAJCORP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BAJAJELEC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BAJAJFINSV_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BAJAJHIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BAJAJHLDNG_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BAJFINANCE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BALAJITELE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BALAMINES_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BALKRISIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BALLARPUR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BALMLAWRIE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BALPHARMA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BALRAMCHIN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BANARISUG_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BANCOINDIA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BANG_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BANKBARODA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BANKINDIA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BANSWRAS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BARTRONICS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BASF_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BASML_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BATAINDIA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BATLIBOI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BBL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BBTC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BEDMUTHA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BELLCERATL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BEL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BEML_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BEPL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BERGEPAINT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BFINVEST_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BFUTILITIE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BGRENERGY_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BHAGWATIHO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BHAGYNAGAR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BHARATFORG_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BHARATGEAR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BHARATRAS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BHARTIARTL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BHARTISHIP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BHEL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BHUSANSTL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BILPOWER_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BIL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BINANIIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BINDALAGRO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BIOCON_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BIRLACORPN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BIRLACOT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BIRLAERIC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BIRLAMONEY_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BIRLAPOWER_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BLBLIMITED_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BLISSGVS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BLKASHYAP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BLUECHIP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BLUECOAST_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BLUEDART_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BLUESTARCO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BLUESTINFO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BOC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BOMDYEING_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BOSCHLTD_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BPCL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BPL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BRANDHOUSE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BRFL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BRIGADE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BRITANNIA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BROADCAST_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BSELINFRA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BSL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BSTRANSCOM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BURNPUR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/BVCL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CADILAHC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CAIRN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CALSOFT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CAMBRIDGE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CAMLIN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CANBK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CANDC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CANFINHOME_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CANTABIL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CARBORUNIV_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CAROLINFO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CASTROL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CCCL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CCL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CEATLTD_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CEBBCO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CELESTIAL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CENTENKA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CENTEXT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CENTRALBK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CENTUM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CENTURYPLY_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CENTURYTEX_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CERA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CESC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CHAMBLFERT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CHEMFALKAL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CHEMPLAST_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CHENNPETRO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CHESLINTEX_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CHETTINAD_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CHOLAFIN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CILNOVA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CINEMAX_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CINEVISTA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CIPLA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CLASSIC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CLNINDIA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CLUTCHAUTO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CMAHENDRA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CMC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/COALINDIA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/COLPAL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CONCOR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CONSOFINVT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CORAL-HUB_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CORDSCABLE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/COREPROTEC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/COROMANDEL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CORPBANK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/COSMOFILMS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/COX&amp;KINGS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CPIL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CREATIVEYE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CRESTANI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CREWBOS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CRISIL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CROMPGREAV_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CRONIMET_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CTE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CUBEXTUB_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CUB_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CUMMINSIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CURATECH_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CYBERMEDIA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/CYBERTECH_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DAAWAT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DABUR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DALMIASUG_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DATAMATICS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DBCORP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DBREALTY_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DCB_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DCHL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DCMSRMCONS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DCM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DCW_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DECCANCE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DECOLIGHT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DEEPAKFERT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DEEPAKNTR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DEEPIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DELTACORP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DELTAMAGNT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DENABANK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DENORA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DEN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DEWANHOUS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DHAMPURSUG_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DHANBANK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DHANUKA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DHANUS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DHARSUGAR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DHUNINV_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DIAPOWER_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DICIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DIGJAM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DISHMAN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DISHTV_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DIVISLAB_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DLF_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DLINKINDIA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DOLPHINOFF_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DONEAR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DPSCLTD_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DPTL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DQE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DREDGECORP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DRREDDY_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DSKULKARNI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DUNCANSIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DWARKESH_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DYNAMATECH_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/DYNASYS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/EASTSILK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/EASUNREYRL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ECEIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ECLERX_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/EDELWEISS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/EDL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/EDSERV_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/EDUCOMP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/EICHERMOT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/EIDPARRY_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/EIHAHOTELS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/EIHOTEL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/EIMCOELECO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/EKC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ELDERPHARM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ELECON_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ELECTCAST_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ELECTHERM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ELGIEQUIP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/EMAMIINFRA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/EMAMILTD_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/EMCO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/EMKAY_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/EMMBI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ENERGYDEV_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ENGINERSIN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ENIL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ENTEGRA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ERAINFRA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/EROSMEDIA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ESABINDIA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ESCORTS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ESL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ESSAROIL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ESSARPORTS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ESSDEE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ESSELPACK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ESTER_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/EUROCERA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/EUROMULTI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/EUROTEXIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/EVEREADY_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/EVERESTIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/EVERONN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/EVINIX_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/EXCELCROP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/EXCELINDUS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/EXCELINFO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/EXIDEIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/FACT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/FAGBEARING_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/FAME_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/FARMAXIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/FCH_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/FCSSOFT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/FDC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/FEDDERLOYD_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/FEDERALBNK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/FIEMIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/FINANTECH_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/FINCABLES_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/FINPIPE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/FIRSTLEASE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/FIRSTWIN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/FKONCO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/FMGOETZE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/FORTIS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/FOSECOIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/FOURSOFT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/FSL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/FUTUREVENT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GABRIEL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GAEL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GAIL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GALLANTT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GALLISPAT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GAL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GAMMNINFRA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GAMMONIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GANDHITUBE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GANESHHOUC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GARDENSILK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GARWALLROP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GATI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GDL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GEECEE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GEINDSYS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GEMINI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GENESYS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GENUSPOWER_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GEODESIC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GEOJITBNPP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GEOMETRIC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GESHIP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GHCL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GICHSGFIN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GILLANDERS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GILLETTE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GINNIFILA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GIPCL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GISOLUTION_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GITANJALI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GKWLIMITED_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GLAXO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GLENMARK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GLFL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GLOBALVECT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GLOBOFFS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GLOBUSSPR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GLODYNE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GLORY_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GMBREW_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GMDCLTD_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GMRINFRA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GNFC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GOACARBON_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GODFRYPHLP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GODREJCP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GODREJIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GODREJPROP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GOENKA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GOKEX_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GOKUL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GOLDENTOBC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GOLDIAM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GOLDINFRA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GOLDTECH_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GPIL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GPPL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GRABALALK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GRANULES_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GRAPHITE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GRASIM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GREAVESCOT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GREENPLY_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GREENPOWER_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GRINDWELL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GRUH_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GSFC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GSKCONS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GSLNOVA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GSPL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GSSAMERICA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GTLINFRA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GTL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GTNIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GTOFFSHORE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GUFICBIO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GUJALKALI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GUJAPOLLO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GUJFLUORO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GUJNRECOKE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GUJRATGAS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GUJSIDHCEM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GUJSTATFIN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GULFOILCOR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/GVKPIL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HALONIX_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HANUNG_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HARITASEAT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HARRMALAYA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HATHWAY_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HAVELLS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HBLPOWER_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HBSTOCK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HCC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HCIL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HCL-INSYS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HCLTECH_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HDFCBANK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HDFC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HDIL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HEG_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HEIDELBERG_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HELIOSMATH_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HERCULES_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HERITGFOOD_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HEROHONDA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HEXAWARE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HFCL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HGSL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HIKAL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HILTON_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HIMATSEIDE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HINDALCO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HINDCOMPOS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HINDCOPPER_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HINDDORROL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HINDMOTORS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HINDNATGLS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HINDOILEXP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HINDPETRO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HINDSYNTEX_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HINDUJAFO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HINDUJAVEN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HINDUNILVR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HINDZINC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HIRECT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HITACHIHOM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HITECHGEAR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HITECHPLAS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HMT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HMVL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HOCL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HONAUT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HONDAPOWER_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HOPFL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HORIZONINF_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HOTELEELA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HOTELRUGBY_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HOVS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HSIL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HTMEDIA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/HYDRBADIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/IBN18_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/IBPOW_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/IBREALEST_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/IBSEC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ICICIBANK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ICIL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ICRA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ICSA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/IDBI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/IDEA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/IDFC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/IFBAGRO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/IFBIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/IFCI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/IFGLREFRAC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/IGARASHI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/IGL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/IGPL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/IITL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/IL&amp;FSENGG_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/IL&amp;FSTRANS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/IMFA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/IMPAL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/IMPEXFERRO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/INDBANK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/INDHOTEL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/INDIABULLS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/INDIACEM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/INDIAGLYCO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/INDIAINFO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/INDIANB_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/INDIANCARD_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/INDIANHUME_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/INDLMETER_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/INDNIPPON_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/INDOASIFU_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/INDOCO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/INDORAMA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/INDOSOLAR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/INDOTECH_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/INDOWIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/INDRAMEDCO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/INDSWFTLAB_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/INDSWFTLTD_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/INDUSFILA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/INDUSINDBK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/INEABS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/INFINITE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/INFOMEDIA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/INFOTECENT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/INFY_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/INGERRAND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/INGVYSYABK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/INNOIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/INOXLEISUR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/INSECTICID_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/IOB_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/IOC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/IOLCP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/IOLN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/IPCALAB_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/IRB_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ISFT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ISMTLTD_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ISPATIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ITC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ITDCEM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ITI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/IVC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/IVP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/IVRCLAH_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/IVRCLINFRA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/J&amp;KBANK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JAGRAN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JAGSNPHARM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JAIBALAJI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JAICORPLTD_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JAINSTUDIO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JAMNAAUTO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JAYAGROGN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JAYBARMARU_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JAYNECOIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JAYSREETEA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JBCHEPHARM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JBFIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JBMA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JCTEL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JENSONICOL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JETAIRWAYS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JEYPORE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JHS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JIKIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JINDALPHOT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JINDALPOLY_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JINDALSAW_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JINDALSTEL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JINDALSWHL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JINDCOT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JINDRILL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JINDWORLD_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JISLJALEQS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JKCEMENT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JKIL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JKLAKSHMI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JKPAPER_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JKTYRE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JMCPROJECT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JMFINANCIL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JMTAUTOLTD_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JOCIL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JPASSOCIAT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JPINFRATEC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JPPOWER_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JSL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JSWENERGY_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JSWSTEEL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JUBILANT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JUBLFOOD_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JUBLINDS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JVLAGRO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JYOTHYLAB_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/JYOTISTRUC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KABRAEXTRU_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KAJARIACER_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KAKATCEM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KALECONSUL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KALINDEE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KALPATPOWR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KALYANIFRG_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KAMATHOTEL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KANDAGIRI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KANORICHEM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KANSAINER_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KARURVYSYA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KAUSHALYA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KAVVERITEL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KBIL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KCPSUGIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KCP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KECL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KEC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KEI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KEMROCK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KERNEX_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KESARENT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KESORAMIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KEYCORPSER_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KFA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KGL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KHAITANELE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KHAITANLTD_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KHANDSE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KICL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KILITCH_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KIL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KINETICMOT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KIRIINDUS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KIRLOSBROS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KIRLOSENG_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KIRLOSIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KITPLYIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KKCL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KLGSYSTEL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KMSUGAR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KNRCON_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KOHINOOR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KOLTEPATIL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KOPDRUGS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KOPRAN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KOTAKBANK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KOTARISUG_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KOTHARIPET_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KOTHARIPRO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KOUTONS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KPIT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KPRMILL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KRBL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KRISHNAENG_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KSBPUMPS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KSCL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KSERASERA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KSK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KSL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KSOILS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KTIL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/KTKBANK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/LAKPRE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/LAKSHMIEFL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/LAKSHVILAS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/LANCOIN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/LAOPALA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/LAXMIMACH_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/LGBBROSLTD_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/LGBFORGE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/LIBERTSHOE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/LICHSGFIN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/LITL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/LLOYDELENG_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/LLOYDFIN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/LLOYDSTEEL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/LML_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/LOGIXMICRO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/LOKESHMACH_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/LOTUSEYE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/LOVABLE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/LPDC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/LT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/LUMAXAUTO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/LUMAXIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/LUMAXTECH_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/LUPIN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/LYKALABS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/M&amp;MFIN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/M&amp;M_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MAANALU_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MADHAV_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MADHUCON_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MADRASCEM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MADRASFERT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MAGMA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MAGNUM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MAHABANK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MAHINDFORG_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MAHINDUGIN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MAHLIFE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MAHSCOOTER_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MAHSEAMLES_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MALWACOTT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MANAKSIA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MANALIPETC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MANDHANA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MANGALAM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MANGCHEFER_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MANGLMCEM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MANGTIMBER_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MANINDS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MANINFRA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MANUGRAPH_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MARALOVER_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MARICO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MARKSANS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MARUTI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MASTEK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MAWANASUG_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MAXWELL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MAX_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MBECL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MBLINFRA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MCDHOLDING_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MCDOWELL-N_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MCLEODRUSS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MEGASOFT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MEGH_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MELSTAR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MERCK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MHRIL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MICROSEC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MICROTECH_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MIC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MINDAIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MINDTREE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MIRCELECTR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MIRZAINT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MLL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MMFL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MMFSL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MOIL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MONNETISPA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MONSANTO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MORARJETEX_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MOREPENLAB_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MOSERBAER_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MOTHERSUMI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MOTILALOFS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MOTOGENFIN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MPHASIS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MPSLTD_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MRF_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MRO-TEK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MRPL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MSPL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MTNL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MUDRA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MUKANDENGG_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MUKANDLTD_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MUKTAARTS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MUNDRAPORT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MUNJALAU_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MUNJALSHOW_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MURLIIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MURUDCERA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MVLIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MVL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/MYSOREBANK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NAGARFERT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NAGREEKCAP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NAGREEKEXP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NAHARCAP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NAHARINDUS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NAHARPOLY_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NAHARSPING_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NANDAN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NATCOPHARM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NATIONALUM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NATNLSTEEL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NAUKRI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NAVINFLUOR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NAVNETPUBL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NBVENTURES_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NCC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NCLIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NDTV_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NECLIFE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NELCAST_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NELCO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NEPCMICON_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NESCO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NET4_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NETWORK18_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NEULANDLAB_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NEXTMEDIA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NEYVELILIG_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NFL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NHPC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NICCO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NIITLTD_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NIITTECH_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NILKAMAL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NIPPOBATRY_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NIRMA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NISSAN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NITCO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NITESHEST_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NITINFIRE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NITINSPIN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NMDC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NOCIL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NOIDATOLL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NORBTEAEXP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NORTHGATE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NOVOPANIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NRBBEARING_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NSIL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NTPC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NUCENT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NUCHEM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NUCLEUS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NUMERICPW_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/NUTEK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/OBEROIRLTY_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/OCL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/OFSS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/OILCOUNTUB_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/OIL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/OISL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/OMAXAUTO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/OMAXE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/OMKARCHEM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/OMMETALS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/OMNITECH_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ONGC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ONMOBILE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ONWARDTEC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/OPTOCIRCUI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ORBITCORP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ORCHIDCHEM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ORIENTABRA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ORIENTALTL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ORIENTBANK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ORIENTCERA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ORIENTHOT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ORIENTLTD_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ORIENTPPR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ORISSAMINE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/OUDHSUG_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PAEL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PAGEIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PANACEABIO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PANORAMUNI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PANTALOONR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PAPERPROD_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PARABDRUGS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PARACABLES_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PARAL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PARAPRINT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PARASPETRO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PAREKHPLAT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PARRYSUGAR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PARSVNATH_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PATELENG_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PATINTLOG_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PATNI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PATSPINLTD_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PBAINFRA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PDPL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PDUMJEIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PDUMJEPULP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PEARLPOLY_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PENIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PENINLAND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PEPL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PERSISTENT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PETRONENGG_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PETRONET_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PFC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PFIZER_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PFOCUS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PFS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PGHH_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PHILIPCARB_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PHOENIXLTD_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PIDILITIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PIIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PIONDIST_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PIPAVAVYD_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PIRGLASS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PIRHEALTH_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PIRLIFE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PITTILAM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PLASTIBLEN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PLETHICO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PNBGILTS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PNB_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PNC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/POCHIRAJU_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/POLARIS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/POLYPLEX_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PONNIERODE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/POWERGRID_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PPAP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PRADIP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PRAENG_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PRAJIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PRAKASHSTL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PRAKASH_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PRATIBHA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PRECOT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PRECWIRE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PREMIER_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PRESTIGE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PRICOL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PRIMESECU_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PRISMCEM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PRITHVI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PROVOGUE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PSB_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PSL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PTC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PTL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PUNJABCHEM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PUNJLLOYD_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PURVA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PVP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/PVR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/QUINTEGRA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RADAAN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RADICO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RAINBOWPAP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RAINCOM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RAIREKMOH_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RAJESHEXPO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RAJOIL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RAJRAYON_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RAJSREESUG_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RAJTV_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RAJVIR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RALLIS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RAMANEWS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RAMCOIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RAMCOSYS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RAMKY_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RAMSARUP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RANASUG_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RANBAXY_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RANEENGINE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RANEHOLDIN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RATNAMANI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RAYMOND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RBL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RBN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RCF_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RCOM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RECLTD_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/REDINGTON_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/REFEX_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/REIAGROLTD_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/REISIXTEN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RELAXO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RELCAPITAL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RELIANCE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RELIGARE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RELINFRA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RELMEDIA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RENUKA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/REPRO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RESPONIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RESURGERE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/REVATHI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RICOAUTO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RIIL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RJL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RKFORGE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RMCL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RML_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ROHITFERRO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ROHLTD_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ROLTA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ROMAN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RPGLIFE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RPOWER_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RPPINFRA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RSSOFTWARE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RSWM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RSYSTEMS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RUBYMILLS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RUCHINFRA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RUCHIRA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/RUCHISOYA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SABERORGAN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SABTN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SADBHAV_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SAGCEM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SAHPETRO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SAIL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SAKHTISUG_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SAKSOFT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SAKUMA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SALORAINTL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SALSTEEL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SAMBHAAV_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SAMTEL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SANDESH_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SANGAMIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SANGHIIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SANGHVIFOR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SANGHVIMOV_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SANWARIA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SARDAEN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SAREGAMA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SARLAPOLY_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SASKEN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SATHAISPAT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SATYAMCOMP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SAVERA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SB&amp;TINTL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SBBJ_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SBIN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SBT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SCI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SEAMECLTD_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SEINVEST_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SELAN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SELMCL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SERVALL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SESAGOA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SESHAPAPER_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SEZALGLASS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SGFL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SGJHL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SGL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SHAHALLOYS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SHALPAINTS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SHANTIGEAR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SHARRESLTD_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SHASUNPHAR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SHILPAMED_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SHILPI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SHIV-VANI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SHIVAMAUTO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SHIVTEX_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SHLAKSHMI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SHOPERSTOP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SHPRE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SHREEASHTA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SHREECEM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SHREERAMA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SHRENUJ_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SHREYANIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SHREYAS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SHRIRAMCIT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SHRIRAMEPC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SHYAMTEL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SICAGEN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SICAL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SIEMENS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SILINV_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SIL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SIMBHSUGAR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SIMPLEXINF_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SIMPLEX_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SINTEX_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SIRPAPER_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SITASHREE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SIYSIL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SJVN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SKFINDIA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SKMEGGPROD_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SKSMICRO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SKUMARSYNF_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SMARTLINK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SMLISUZU_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SMPL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SMSPHARMA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SOBHA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SOFTTECHGR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SOLARINDS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SOMANYCERA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SOMATEX_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SONASTEER_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SONATSOFTW_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SOTL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SOUTHBANK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SPANCO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SPARC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SPECTACLE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SPENTEX_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SPICEMOBIL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SPIC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SPLIL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SPMLINFRA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SPYL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SREINFRA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SRF_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SRGINFOTEC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SRHHLINDST_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SRHHYPOLTD_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SRTRANSFIN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SSWL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/STARPAPER_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/STAR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/STCINDIA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/STERLINBIO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/STERTOOLS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/STER_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/STINDIA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/STOREONE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/STRTECH_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SUBEX_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SUBROS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SUDARSCHEM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SUDAR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SUJANATOW_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SUJANAUNI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SUMEETINDS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SUMMITSEC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SUNCLAYTON_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SUNDARAM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SUNDARMFIN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SUNDRMBRAK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SUNDRMFAST_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SUNFLAG_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SUNILHITEC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SUNPHARMA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SUNTECK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SUNTV_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SUPERSPIN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SUPPETRO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SUPRAJIT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SUPREMEIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SUPREMEINF_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SUPREMETEX_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SURAJDIAMN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SURANACORP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SURANAIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SURANAT&amp;P_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SURYAJYOTI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SURYALAXMI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SURYAPHARM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SURYAROSNI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SUTLEJTEX_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SUVEN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SUZLON_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SWARAJENG_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SYMPHONY_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SYNCOM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/SYNDIBANK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/Symbol_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TAINWALCHM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TAJGVK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TAKE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TALBROAUTO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TALWALKARS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TANLA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TANTIACONS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TARAPUR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TATACHEM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TATACOFFEE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TATACOMM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TATAELXSI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TATAGLOBAL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TATAINVEST_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TATAMETALI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TATAMOTORS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TATAPOWER_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TATASPONGE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TATASTEEL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TCIDEVELOP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TCIFINANCE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TCI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TCS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TECHM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TECHNOFAB_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TECHNO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TECPRO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TELEDATAIT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TEXMACOLTD_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TEXMOPIPES_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TFCILTD_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TFL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/THANGAMAYL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/THEMISMED_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/THERMAX_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/THINKSOFT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/THIRUSUGAR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/THOMASCOOK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TIDEWATER_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TIIL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TIL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TIMESGTY_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TIMETECHNO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TIMKEN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TINPLATE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TIPSINDLTD_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TIRUMALCHM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TITAN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TNPETRO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TNPL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TNTELE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TODAYS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TOKYOPLAST_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TORNTPHARM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TORNTPOWER_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TRENT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TRF_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TRICOM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TRIDENT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TRIGYN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TRIL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TRIVENI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TTKHEALTH_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TTKPRESTIG_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TTL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TTML_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TUBEINVEST_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TULIP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TULSI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TVSELECT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TVSMOTOR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TVSSRICHAK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TVTODAY_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TWILITAKA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/TWL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/UBENGG_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/UBHOLDINGS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/UBL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/UCALFUEL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/UCOBANK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/UFLEX_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/UGARSUGAR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ULTRACEMCO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/UMESLTD_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/UNICHEMLAB_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/UNIENTER_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/UNIONBANK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/UNIPHOS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/UNIPLY_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/UNITECH_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/UNITEDBNK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/UNITY_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/UNIVCABLES_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/UPERGANGES_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/USHAMART_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/USHERAGRO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/UTTAMSTL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/UTTAMSUGAR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/UTVSOF_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/VADILALIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/VAIBHAVGEM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/VAKRANSOFT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/VALECHAENG_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/VALUEIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/VARDHACRLC_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/VARDMNPOLY_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/VARUNSHIP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/VARUN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/VASCONEQ_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/VENKEYS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/VENUSREM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/VESUVIUS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/VGUARD_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/VHL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/VICEROY_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/VIDEOIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/VIJAYABANK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/VIJSHAN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/VIKASHMET_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/VIMTALABS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/VINATIORGA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/VINDHYATEL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/VIPIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/VISAKAIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/VISASTEEL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/VISESHINFO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/VISHALRET_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/VISUINTL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/VIVIMEDLAB_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/VLSFINANCE_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/VOLTAMP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/VOLTAS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/VSTIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/VSTTILLERS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/VTL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/WABAG_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/WABCO-TVS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/WALCHANNAG_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/WANBURY_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/WEBELSOLAR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/WEIZMANIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/WELCORP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/WELINV_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/WELPROJ_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/WELSPUNIND_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/WENDT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/WHEELS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/WHIRLPOOL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/WILLAMAGOR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/WINDSOR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/WINSOMYARN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/WIPRO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/WOCKPHARMA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/WSI_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/WSTCSTPAPR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/WWIL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/WYETH_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/XLENERGY_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/XPROINDIA_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/YESBANK_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ZANDUREALT_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ZEELEARN_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ZEEL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ZEENEWS_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ZENITHBIR_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ZENITHCOMP_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ZENITHEXPO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ZENITHINFO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ZENSARTECH_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ZICOM_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ZODIACLOTH_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ZODJRDMKJ_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ZUARIAGRO_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ZYDUSWELL_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/ZYLOG_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/stock_prediction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockPrediction/templates/StockPrediction/Predict.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StockPrediction/templates/StockPrediction/greet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fifty.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockPrediction/static/StockPrediction/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockPrediction/static/StockPrediction/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/StockPrediction/static/StockPrediction/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StockPrediction/static/StockPrediction/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/StockPrediction/static/StockPrediction/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockPrediction/templates/StockPrediction/Predict.html" beforeDir="false" afterPath="$PROJECT_DIR$/StockPrediction/templates/StockPrediction/Predict.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StockPrediction/templates/StockPrediction/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/StockPrediction/templates/StockPrediction/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StockPrediction/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/StockPrediction/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StockPrediction/utils.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/StockPrediction/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/StockPrediction/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -1407,27 +25,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StockPrediction/templates/StockPrediction/index.html">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/StockPrediction/templates/StockPrediction/Predict.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="44" column="14" lean-forward="true" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
+            <state relative-caret-position="612">
+              <caret line="36" column="10" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
               <folding>
                 <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StockPrediction/templates/StockPrediction/Predict.html">
+        <entry file="file://$PROJECT_DIR$/StockPrediction/stock_prediction.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="69" selection-start-line="21" selection-start-column="69" selection-end-line="21" selection-end-column="69" />
+            <state relative-caret-position="339">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
               <folding>
-                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1436,37 +54,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/StockPrediction/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/StockPrediction/stock_prediction.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StockPrediction/static/StockPrediction/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StockPrediction/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="58" />
+            <state relative-caret-position="-528">
+              <caret line="6" column="59" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="59" />
               <folding>
-                <element signature="e#0#28#0" expanded="true" />
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1477,8 +68,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -1490,22 +81,23 @@
       <list>
         <option value="$PROJECT_DIR$/WebApp/urls.py" />
         <option value="$PROJECT_DIR$/WebApp/settings.py" />
-        <option value="$PROJECT_DIR$/StockPrediction/static/StockPrediction/main.js" />
         <option value="$PROJECT_DIR$/StockPrediction/utlis.py" />
         <option value="$PROJECT_DIR$/StockPrediction/utils.py" />
         <option value="$PROJECT_DIR$/StockPrediction/urls.py" />
-        <option value="$PROJECT_DIR$/StockPrediction/stock_prediction.py" />
-        <option value="$PROJECT_DIR$/StockPrediction/templates/StockPrediction/Predict.html" />
-        <option value="$PROJECT_DIR$/StockPrediction/static/StockPrediction/style.css" />
         <option value="$PROJECT_DIR$/StockPrediction/templates/StockPrediction/index.html" />
+        <option value="$PROJECT_DIR$/StockPrediction/static/StockPrediction/main.js" />
+        <option value="$PROJECT_DIR$/StockPrediction/static/StockPrediction/style.css" />
+        <option value="$PROJECT_DIR$/StockPrediction/templates/StockPrediction/greet.html" />
+        <option value="$PROJECT_DIR$/StockPrediction/stock_prediction.py" />
         <option value="$PROJECT_DIR$/StockPrediction/views.py" />
+        <option value="$PROJECT_DIR$/StockPrediction/templates/StockPrediction/Predict.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="903" />
+    <option name="x" value="174" />
+    <option name="y" value="71" />
+    <option name="width" value="1143" />
     <option name="height" value="775" />
   </component>
   <component name="ProjectView">
@@ -1513,7 +105,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1526,39 +117,26 @@
               <item name="WebApp" type="462c0819:PsiDirectoryNode" />
               <item name="StockPrediction" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="WebApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebApp" type="462c0819:PsiDirectoryNode" />
-              <item name="StockPrediction" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebApp" type="462c0819:PsiDirectoryNode" />
-              <item name="StockPrediction" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebApp" type="462c0819:PsiDirectoryNode" />
-              <item name="StockPrediction" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="StockPrediction" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/StockPrediction/data" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/StockPrediction/templates/StockPrediction" />
     <property name="settings.editor.selected.configurable" value="ics" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sandeep Sharma\Desktop\Finished PROJECTS\WebApp" />
+      <recent name="C:\Users\Sandeep Sharma\Desktop\Finished PROJECTS\WebApp\StockPrediction" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sandeep Sharma\Desktop\Finished PROJECTS\WebApp\StockPrediction\templates\StockPrediction" />
       <recent name="C:\Users\Sandeep Sharma\Desktop\Finished PROJECTS\WebApp\StockPrediction\data" />
       <recent name="C:\Users\Sandeep Sharma\Desktop\Finished PROJECTS\WebApp\StockPrediction\static\StockPrediction" />
     </key>
@@ -1600,14 +178,21 @@
       <option name="project" value="LOCAL" />
       <updated>1591883769871</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Simple prediction done (graphs left)">
+      <created>1591899338703</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591899338703</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16220239" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.22023809" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -1618,7 +203,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.5109034" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.5077882" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1629,7 +214,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add stocks list" />
     <MESSAGE value="List of stocks completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="List of stocks completed" />
+    <MESSAGE value="Simple prediction done (graphs left)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Simple prediction done (graphs left)" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/StockPrediction/apps.py">
@@ -1645,9 +231,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StockPrediction/static/StockPrediction/main.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/WebApp/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -1658,69 +241,107 @@
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/Lib/site-packages/django/contrib/sites/requests.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/StockPrediction/utils.py" />
+    <entry file="file://$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/LT_data.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/Lib/ssl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="1098" selection-start-line="1098" selection-end-line="1098" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/Lib/site-packages/nsetools/nse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="156" selection-start-line="156" selection-end-line="156" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifty.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/StockPrediction/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="58" />
+          <caret line="5" column="42" lean-forward="true" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="58" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StockPrediction/utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StockPrediction/data/HISTORICAL_DATA/LT_data.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StockPrediction/static/StockPrediction/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StockPrediction/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StockPrediction/templates/StockPrediction/Predict.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="69" selection-start-line="21" selection-start-column="69" selection-end-line="21" selection-end-column="69" />
-          <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/StockPrediction/static/StockPrediction/background.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/StockPrediction/templates/StockPrediction/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="44" column="14" lean-forward="true" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
+        <state relative-caret-position="357">
+          <caret line="41" column="27" lean-forward="true" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
           <folding>
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StockPrediction/static/StockPrediction/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="450" column="73" selection-start-line="450" selection-start-column="73" selection-end-line="450" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StockPrediction/templates/StockPrediction/greet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="17" column="66" selection-start-line="17" selection-start-column="66" selection-end-line="17" selection-end-column="66" />
+          <folding>
+            <element signature="n#style#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StockPrediction/static/StockPrediction/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/StockPrediction/stock_prediction.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="19" />
+        <state relative-caret-position="339">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StockPrediction/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-528">
+          <caret line="6" column="59" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StockPrediction/templates/StockPrediction/Predict.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="10" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

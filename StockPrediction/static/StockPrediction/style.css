@@ -30,3 +30,44 @@ background-color:#8de4af;
 .data{
 color:#dc3545;
 }
+.btn-get{
+font-weight: bold;
+font-size: 20px;
+background-color:#5cdb94;
+}
+.btn-get:hover{
+background-color:#8de4af;
+}
+.search-btn{
+font-weight: bold;
+background-color:#5cdb94;
+}
+.search-btn:hover{
+background-color:#8de4af;
+}
+@import url(https://fonts.googleapis.com/css?family=Karla);
+
+.ani{
+  font-family: "Karla", sans-serif;
+   text-align: center;
+   font-size: 32px;
+}
+
+@keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-webkit-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-moz-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+.cursor {
+    animation: blink 0.7s infinite;
+}

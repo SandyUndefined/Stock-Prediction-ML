@@ -15,10 +15,11 @@
 
     <title>Web API</title>
 </head>
-<body style="background-image: url({% static 'StockPrediction/bg.jpg' %});">
+<body style="background-color:#dae5ed">
+<!--<body style="background-image: url({% static 'StockPrediction/background.jpg' %}); background-position:center;background-repeat:no-repeat;background-size:cover;height: auto;">-->
 <header>
-    <nav class="navbar navbar-expand-lg navbar-light bg-dark">
-        <a class="navbar-brand text-white ml-5" style="font-size:1.5em">Stock Prediction</a>
+    <nav class="navbar navbar-expand-lg navbar-light bg-dark" style="height:82px;">
+        <a class="navbar-brand text-white ml-5" style="font-size:1.5em;font-weight: bold;">Web API | Stock Prediction</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
                 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -35,8 +36,7 @@
                         <div class="input-group">
                         <input type="text" class="form-control search-input" id="stocks_id" name="stocks_id" placeholder="Enter Company's Symbol">
                         <div class="input-group-append">
-                            <button class="btn rounded-right search-btn"
-                               style="background-color:#e8e9ea">Sumbit</button>
+                            <button class="btn rounded-right search-btn">Sumbit</button>
                         </div>
                     </div>
                     </form>
