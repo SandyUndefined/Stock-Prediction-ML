@@ -1,6 +1,8 @@
 import io
 import pandas as pd
 import matplotlib.pyplot as plt
+from bokeh.embed import components
+from bokeh.plotting import figure
 from django.shortcuts import render
 from nsetools import Nse
 from datetime import date
@@ -34,6 +36,7 @@ def index(request):
     raw2 = []
 
     data = [nse.get_quote(stock) for stock in nifty50]
+
     for i in range(len(data)):
         symbols.append([data[i].get('symbol')])
     for x in symbols:
@@ -43,6 +46,7 @@ def index(request):
         price.append([data[j].get('open')])
     for y in price:
         raw2.append(','.join(map(str,y)))
+
     data = zip(raw, raw2)
 
     context = {'stocks': data}
@@ -56,10 +60,23 @@ def prediction(request):
         stock = stock_id.upper()
         msg = get_stock_data(stock)
         today = date.today()
+
+        X = [1,2,3,4,5]
+        Y = [1,2,3,4,5]
+
+        plot = figure(title = 'Line Graph', x_axis_label = 'X-axis', y_axis_label = 'Y-axis', plot_width=600, plot_height=450)
+        plot.line(X,Y, line_width = 2)
+        script , div = components(plot)
+
+
+
+
         context = {
             'Predicted_data': msg,
             'name': stock,
             'date': today,
+            'script': script,
+            'div':div
         }
         return render(request, 'StockPrediction/Predict.html', context)
     else:
