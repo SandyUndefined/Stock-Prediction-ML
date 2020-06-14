@@ -1,8 +1,4 @@
-import io
 import pandas as pd
-import matplotlib.pyplot as plt
-from bokeh.embed import components
-from bokeh.plotting import figure
 from django.shortcuts import render
 from nsetools import Nse
 from datetime import date
@@ -18,17 +14,9 @@ def greet(request):
 def index(request):
     global data
 
-    # url50 = 'https://archives.nseindia.com/content/indices/ind_nifty50list.csv'
-    # url100 = 'https://archives.nseindia.com/content/indices/ind_nifty100list.csv'
-    #
-    # sfifty = requests.get(url50).content
-    # shundred = requests.get(url100).content
-
     nifty50 = pd.read_csv('fifty.csv')
-    # nifty100 = pd.read_csv(io.StringIO(shundred.decode('utf-8')))
 
     nifty50 = nifty50['Symbol']
-    # nifty100 = nifty100['Symbol']
 
     symbols = []
     raw = []
@@ -61,22 +49,10 @@ def prediction(request):
         msg = get_stock_data(stock)
         today = date.today()
 
-        X = [1,2,3,4,5]
-        Y = [1,2,3,4,5]
-
-        plot = figure(title = 'Line Graph', x_axis_label = 'X-axis', y_axis_label = 'Y-axis', plot_width=600, plot_height=450)
-        plot.line(X,Y, line_width = 2)
-        script , div = components(plot)
-
-
-
-
         context = {
             'Predicted_data': msg,
             'name': stock,
             'date': today,
-            'script': script,
-            'div':div
         }
         return render(request, 'StockPrediction/Predict.html', context)
     else:

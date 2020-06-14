@@ -8,6 +8,7 @@
     <list default="true" id="7a3177a0-1412-42e2-8baa-3776fed80164" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StockPrediction/templates/StockPrediction/Predict.html" beforeDir="false" afterPath="$PROJECT_DIR$/StockPrediction/templates/StockPrediction/Predict.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockPrediction/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/StockPrediction/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StockPrediction/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/StockPrediction/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/StockPrediction/templates/StockPrediction/Predict.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="39" column="50" selection-start-line="39" selection-start-column="50" selection-end-line="39" selection-end-column="50" />
+            <state relative-caret-position="272">
+              <caret line="40" column="52" selection-start-line="40" selection-start-column="52" selection-end-line="40" selection-end-column="52" />
               <folding>
                 <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
@@ -36,8 +37,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/StockPrediction/stock_prediction.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -45,13 +46,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/StockPrediction/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+            <state relative-caret-position="-357">
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#0#19#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -77,11 +77,11 @@
         <option value="$PROJECT_DIR$/WebApp/settings.py" />
         <option value="$PROJECT_DIR$/StockPrediction/utlis.py" />
         <option value="$PROJECT_DIR$/StockPrediction/utils.py" />
-        <option value="$PROJECT_DIR$/StockPrediction/urls.py" />
         <option value="$PROJECT_DIR$/StockPrediction/templates/StockPrediction/index.html" />
         <option value="$PROJECT_DIR$/StockPrediction/static/StockPrediction/main.js" />
-        <option value="$PROJECT_DIR$/StockPrediction/static/StockPrediction/style.css" />
         <option value="$PROJECT_DIR$/StockPrediction/templates/StockPrediction/greet.html" />
+        <option value="$PROJECT_DIR$/StockPrediction/urls.py" />
+        <option value="$PROJECT_DIR$/StockPrediction/static/StockPrediction/style.css" />
         <option value="$PROJECT_DIR$/StockPrediction/stock_prediction.py" />
         <option value="$PROJECT_DIR$/StockPrediction/views.py" />
         <option value="$PROJECT_DIR$/StockPrediction/templates/StockPrediction/Predict.html" />
@@ -89,8 +89,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-25" />
-    <option name="y" value="58" />
+    <option name="x" value="117" />
+    <option name="y" value="19" />
     <option name="width" value="1143" />
     <option name="height" value="775" />
   </component>
@@ -99,7 +99,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -116,6 +115,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -125,14 +125,14 @@
     <property name="settings.editor.selected.configurable" value="ics" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Sandeep Sharma\Desktop\Finished PROJECTS\WebApp" />
-      <recent name="C:\Users\Sandeep Sharma\Desktop\Finished PROJECTS\WebApp\StockPrediction" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Sandeep Sharma\Desktop\Finished PROJECTS\WebApp\StockPrediction\templates\StockPrediction" />
       <recent name="C:\Users\Sandeep Sharma\Desktop\Finished PROJECTS\WebApp\StockPrediction\data" />
       <recent name="C:\Users\Sandeep Sharma\Desktop\Finished PROJECTS\WebApp\StockPrediction\static\StockPrediction" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sandeep Sharma\Desktop\Finished PROJECTS\WebApp" />
+      <recent name="C:\Users\Sandeep Sharma\Desktop\Finished PROJECTS\WebApp\StockPrediction" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -186,25 +186,32 @@
       <option name="project" value="LOCAL" />
       <updated>1591971759295</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="simple graph done.">
+      <created>1592037748388</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1592037748388</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="331" y="53" width="1143" height="775" extended-state="0" />
+    <frame x="117" y="19" width="1143" height="775" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.17013575" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32866043" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.50623053" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.49844238" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -217,7 +224,8 @@
     <MESSAGE value="List of stocks completed" />
     <MESSAGE value="Simple prediction done (graphs left)" />
     <MESSAGE value="graphs left" />
-    <option name="LAST_COMMIT_MESSAGE" value="graphs left" />
+    <MESSAGE value="simple graph done." />
+    <option name="LAST_COMMIT_MESSAGE" value="simple graph done." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/StockPrediction/apps.py">
@@ -264,29 +272,7 @@
     <entry file="file://$PROJECT_DIR$/fifty.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/StockPrediction/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="42" lean-forward="true" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="58" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/StockPrediction/static/StockPrediction/background.jpg" />
-    <entry file="file://$PROJECT_DIR$/StockPrediction/templates/StockPrediction/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="41" column="27" lean-forward="true" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
-          <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/StockPrediction/static/StockPrediction/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="446">
@@ -296,37 +282,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/StockPrediction/templates/StockPrediction/greet.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="17" column="66" selection-start-line="17" selection-start-column="66" selection-end-line="17" selection-end-column="66" />
+        <state relative-caret-position="90">
+          <caret line="32" column="43" lean-forward="true" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
           <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StockPrediction/templates/StockPrediction/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="44" column="14" lean-forward="true" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/StockPrediction/static/StockPrediction/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        <state relative-caret-position="845">
+          <caret line="72" column="1" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StockPrediction/views.py">
+    <entry file="file://$PROJECT_DIR$/StockPrediction/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/StockPrediction/static/StockPrediction/test.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/StockPrediction/stock_prediction.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
@@ -335,13 +336,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/StockPrediction/templates/StockPrediction/Predict.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="39" column="50" selection-start-line="39" selection-start-column="50" selection-end-line="39" selection-end-column="50" />
+        <state relative-caret-position="272">
+          <caret line="40" column="52" selection-start-line="40" selection-start-column="52" selection-end-line="40" selection-end-column="52" />
           <folding>
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StockPrediction/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357">
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
