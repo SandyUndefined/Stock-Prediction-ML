@@ -21,6 +21,7 @@ margin: 50px auto;
   outline: none !important;
 }
 .predict-btn{
+color:black;
 font-weight: bold;
 background-color:#5cdb94;
 }
@@ -70,4 +71,12 @@ background-color:#8de4af;
 }
 .cursor {
     animation: blink 0.7s infinite;
+}
+.graph-btn{
+color:black;
+font-weight: bold;
+background-color:#5cdb94;
+}
+.graph-btn:hover {
+background-color:#8de4af;
 }

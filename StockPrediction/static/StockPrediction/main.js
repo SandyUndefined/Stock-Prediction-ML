@@ -1,28 +1,3 @@
-// The MIT License (MIT)
-
-// Typed.js | Copyright (c) 2014 Matt Boldt | www.mattboldt.com
-
-// Permission is hereby granted, free of charge, to any person obtaining a copy
-// of this software and associated documentation files (the "Software"), to deal
-// in the Software without restriction, including without limitation the rights
-// to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-// copies of the Software, and to permit persons to whom the Software is
-// furnished to do so, subject to the following conditions:
-
-// The above copyright notice and this permission notice shall be included in
-// all copies or substantial portions of the Software.
-
-// THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-// IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-// FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-// AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-// LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-// OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-// THE SOFTWARE.
-
-
-
-
 ! function($) {
 
     "use strict";
@@ -334,11 +309,7 @@
             }, humanize);
 
         }
-        /**
-         * Shuffles the numbers in the given array.
-         * @param {Array} array
-         * @returns {Array}
-         */
+
         ,shuffleArray: function(array) {
             var tmp, current, top = array.length;
             if(top) while(--top) {
@@ -348,28 +319,7 @@
                 array[top] = tmp;
             }
             return array;
-        }
-
-        // Start & Stop currently not working
-
-        // , stop: function() {
-        //     var self = this;
-
-        //     self.stop = true;
-        //     clearInterval(self.timeout);
-        // }
-
-        // , start: function() {
-        //     var self = this;
-        //     if(self.stop === false)
-        //        return;
-
-        //     this.stop = false;
-        //     this.init();
-        // }
-
-        // Reset and rebuild the element
-        ,
+        } ,
         reset: function() {
             var self = this;
             clearInterval(self.timeout);
@@ -433,16 +383,6 @@
 
 }(window.jQuery);
 
-/*
-* rwdImageMaps jQuery plugin v1.5
-*
-* Allows image maps to be used in a responsive design by recalculating the area coordinates to match the actual image size on load and window.resize
-*
-* Copyright (c) 2013 Matt Stow
-* https://github.com/stowball/jQuery-rwdImageMaps
-* http://mattstow.com
-* Licensed under the MIT license
-*/
 ;(function(a){a.fn.rwdImageMaps=function(){var c=this;var b=function(){c.each(function(){if(typeof(a(this).attr("usemap"))=="undefined"){return}var e=this,d=a(e);a("<img />").load(function(){var g="width",m="height",n=d.attr(g),j=d.attr(m);if(!n||!j){var o=new Image();o.src=d.attr("src");if(!n){n=o.width}if(!j){j=o.height}}var f=d.width()/100,k=d.height()/100,i=d.attr("usemap").replace("#",""),l="coords";a('map[name="'+i+'"]').find("area").each(function(){var r=a(this);if(!r.data(l)){r.data(l,r.attr(l))}var q=r.data(l).split(","),p=new Array(q.length);for(var h=0;h<p.length;++h){if(h%2===0){p[h]=parseInt(((q[h]/n)*100)*f)}else{p[h]=parseInt(((q[h]/j)*100)*k)}}r.attr(l,p.toString())})}).attr("src",d.attr("src"))})};a(window).resize(b).trigger("resize");return this}})(jQuery);
 
 

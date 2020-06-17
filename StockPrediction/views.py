@@ -31,7 +31,7 @@ def index(request):
         raw.append(','.join(x))
 
     for j in range(len(data)):
-        price.append([data[j].get('open')])
+        price.append([data[j].get('lastPrice')])
     for y in price:
         raw2.append(','.join(map(str,y)))
 

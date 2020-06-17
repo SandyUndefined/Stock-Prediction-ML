@@ -53,19 +53,21 @@
                     <thead class="bg-info">
                     <tr>
                         <th>Company's Symbol</th>
-                        <th>Open</th>
-                        <th></th>
+                        <th>Current Price</th>
+                        <th>View Current chart</th>
                         <th>Action</th>
                     </tr>
                     </thead>
                     <tbody>
                     {% for a,b in stocks %}
                     <tr>
-                        <th scope="row">{{ a }}</th>
+                        <th scope="row" class="comp_name">{{ a }}</th>
                         <td>{{ b }}</td>
-                        <td></td>
                         <td>
-                            <input type="button" class="btn predict-btn" value="Predict Closing Price">
+                            <button class="btn graph-btn">View Graph</button>
+                        </td>
+                        <td>
+                            <button class="btn predict-btn">Predict Closing Price</button>
                         </td>
                     </tr>
                     {% endfor %}
@@ -87,5 +89,13 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/bokeh/2.0.2/bokeh-widgets.min.js"></script>
 {{ script | safe }}
 <script src="{% static 'StockPrediction/main.js' %}"></script>
+<script>
+    $(".graph-btn").click(function() {
+    var $row = $(this).closest("tr");    // Find the row
+    var $text = $row.find(".comp_name").text(); // Find the text
+    // Let's test it out
+    alert($text);
+});
+</script>
 </body>
 </html>
