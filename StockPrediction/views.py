@@ -12,54 +12,57 @@ def greet(request):
 
 
 def index(request):
-    global data
-    symbols = []
-    raw = []
-    price = []
-    raw2 = []
-    open = []
-    raw3 = []
-    companay_name = []
-    raw4 = []
+    if request.method == 'POST':
+        global data
+        symbols = []
+        raw = []
+        price = []
+        raw2 = []
+        open = []
+        raw3 = []
+        companay_name = []
+        raw4 = []
 
-    nifty50 = pd.read_csv('fifty.csv')
-    nifty50 = nifty50['Symbol']
+        nifty50 = pd.read_csv('fifty.csv')
+        nifty50 = nifty50['Symbol']
 
-    data = [nse.get_quote(stock) for stock in nifty50]
+        data = [nse.get_quote(stock) for stock in nifty50]
 
-    # Companay name
-    for i in range(len(data)):
-        companay_name.append([data[i].get('companyName')])
+        # Companay name
+        for i in range(len(data)):
+            companay_name.append([data[i].get('companyName')])
 
-    for x in companay_name:
-        raw4.append(','.join(x))
+        for x in companay_name:
+            raw4.append(','.join(x))
 
-    # Symbol
-    for i in range(len(data)):
-        symbols.append([data[i].get('symbol')])
+        # Symbol
+        for i in range(len(data)):
+            symbols.append([data[i].get('symbol')])
 
-    for x in symbols:
-        raw.append(','.join(x))
+        for x in symbols:
+            raw.append(','.join(x))
 
-    # Open
-    for i in range(len(data)):
-        open.append([data[i].get('open')])
+        # Open
+        for i in range(len(data)):
+            open.append([data[i].get('open')])
 
-    for x in open:
-        raw3.append(','.join(map(str, x)))
+        for x in open:
+            raw3.append(','.join(map(str, x)))
 
-    # Last Price
-    for j in range(len(data)):
-        price.append([data[j].get('lastPrice')])
+        # Last Price
+        for j in range(len(data)):
+            price.append([data[j].get('lastPrice')])
 
-    for y in price:
-        raw2.append(','.join(map(str, y)))
+        for y in price:
+            raw2.append(','.join(map(str, y)))
 
-    data = zip(raw4, raw, raw3, raw2)
+        data = zip(raw4, raw, raw3, raw2)
 
-    context = {'stocks': data}
+        context = {'stocks': data}
 
-    return render(request, 'StockPrediction/index.html', context)
+        return render(request, 'StockPrediction/index.html', context)
+    else:
+        return render(request, 'StockPrediction/greet.html')
 
 
 def prediction(request):
