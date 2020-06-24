@@ -12,7 +12,7 @@ def greet(request):
 
 
 def index(request):
-    if request.method == 'POST':
+    if request.method == 'GET':
         global data
         symbols = []
         raw = []
