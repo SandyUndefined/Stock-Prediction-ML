@@ -1,1 +1,1 @@
-web: gunicorn WebApp.wsgi:application --preload --workers 1
+web: gunicorn StockPrediction.wsgi --log-file - 
